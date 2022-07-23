@@ -1,5 +1,6 @@
 ### Prazer!! sou o Wagner Pompeo Corrêa ✅
 
+- 🖥 Analista de sistemas
 - 🖥 Desenvolvedor de Software C++
 - 🔭 Estudante de Data Science 
 - 📲 Desenvolvimemto mobile
