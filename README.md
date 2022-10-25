@@ -1,9 +1,9 @@
 ### Prazer!! sou o Wagner Pompeo Corrêa ✅
 
-- 🖥 Analista de sistemas
+- 🖥 Analista de sistemas senior
 - 🖥 Desenvolvedor de Software C++
 - 🔭 Estudante de Data Science 
-- 📲 Desenvolvimemto mobile
+- 🐍 Estudante de Python
 
 <div>
   <a href="https://github.com/Wpompeo"> 
