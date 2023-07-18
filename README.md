@@ -2,8 +2,8 @@
 
 - 🖥 Analista de sistemas senior
 - 🖥 Desenvolvedor de Software C++
-- 🔭 Estudante de Data Science 
-- 🐍 Estudante de Python
+- 🔭 Big Data e Inteligência Analítica 
+- 🐍 Se desenvolvendo em outras linguagens.
 
 <div>
   <a href="https://github.com/Wpompeo"> 
