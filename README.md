@@ -3,7 +3,7 @@
 - 🖥 Analista de sistemas
 - 🖥 Desenvolvedor de Software 
 - 🔭 Big Data e Inteligência Analítica 
-- 🐍 Se desenvolvendo em outras linguagens.
+
 
 
 <div>
