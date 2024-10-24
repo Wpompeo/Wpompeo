@@ -1,7 +1,6 @@
 ### Prazer!! sou o Wagner Pompeo Corrêa ✅
 
-- 🖥 Analista de sistemas
-- 🖥 Desenvolvedor de Software 
+- 🖥 Software developer
   
 
 
