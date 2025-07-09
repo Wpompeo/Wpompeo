@@ -19,6 +19,8 @@ Ao longo da minha carreira, trabalhei em sistemas complexos em áreas como dispo
   <img align="center" alt="Wpompeo-Kotlin" height="30" width="40" src="https://tm.ibxk.com.br/2017/05/18/18085921051418.jpg?ims=1200x675">
 
   <img align="center" alt="Wpompeo-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+   <img align="center" alt="Wpompeo-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
                                                          
   ##
