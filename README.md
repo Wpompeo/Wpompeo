@@ -3,11 +3,7 @@
 - 🖥 Software developer with over 12 years of experience in back-end development, particularly using C++. Throughout my career, I've worked on complex systems in areas such as electronic devices, test automation, and payment solutions. I'm always seeking new knowledge and skills.
 
 
-<div>
-  <a href="https://github.com/Wpompeo"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wpompeo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wpompeo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Wpompeo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
