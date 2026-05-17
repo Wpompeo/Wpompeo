@@ -1,4 +1,4 @@
-### Prazer!! sou o Wagner Pompeo Corrêa ✅
+### Nice to meet you, I'm Wagner Pompeo. ✅
 
 - 🖥 Software developer with over 12 years of experience in back-end development, particularly using C++. Throughout my career, I've worked on complex systems in areas such as electronic devices, test automation, and payment solutions. I'm always seeking new knowledge and skills.
 
