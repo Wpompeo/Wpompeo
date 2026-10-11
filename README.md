@@ -10,7 +10,7 @@
   
   <img align="center" alt="Wpompeo-C" height="30" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
 
-  <img align="center" alt="Wpompeo-Kotlin" height="30" width="40" src="https://tm.ibxk.com.br/2017/05/18/18085921051418.jpg?ims=1200x675">
+  <img align="center" alt="Wpompeo-Kotlin" height="30" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png">
 
   <img align="center" alt="Wpompeo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
